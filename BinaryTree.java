@@ -1,9 +1,17 @@
 
 public class BinaryTree {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+public class node {
+	Integer data;
+	node left;
+	node right; 
+	public node() {
+		this.data = data;
+		this.left = null;
+		this.right = null;
 	}
+	
+	
+}
+
 
 }
