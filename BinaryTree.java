@@ -1,3 +1,4 @@
+
 public class BinaryTree {
 	protected node root;
 	public class node {
@@ -27,3 +28,5 @@ public class BinaryTree {
 	}
 
 }
+
+
